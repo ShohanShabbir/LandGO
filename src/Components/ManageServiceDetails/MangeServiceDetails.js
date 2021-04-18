@@ -8,7 +8,7 @@ const MangeServiceDetails = (services) => {
     console.log(services);
 
     const deleteProduct = (id) =>{
-        fetch(`http://localhost:5055/delete/${_id}`, {
+        fetch(`https://damp-hollows-31189.herokuapp.com/delete/${_id}`, {
             method: 'DELETE'
         })
         .then (res => res.json())

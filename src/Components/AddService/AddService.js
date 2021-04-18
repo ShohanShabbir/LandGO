@@ -14,7 +14,7 @@ const AddService = () => {
             description: data.message,
             imageURL: imageURL
         }
-        const url = `http://localhost:5055/addService`;
+        const url = `https://damp-hollows-31189.herokuapp.com/addService`;
         console.log(eventData);
         fetch(url, {
             method: 'POST',

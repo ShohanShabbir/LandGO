@@ -12,7 +12,7 @@ const Admin = () => {
             email:data.email
             
         }
-        const url = `http://localhost:5055/addAdmin`;
+        const url = `https://damp-hollows-31189.herokuapp.com/addAdmin`;
         console.log(eventData);
         fetch(url, {
             method: 'POST',

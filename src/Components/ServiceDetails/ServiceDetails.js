@@ -21,7 +21,7 @@ const ServiceDetails = (services) => {
         
     };
         const eventData ={ ...cardData}
-        const url = `http://localhost:5055/addOrder`;
+        const url = `https://damp-hollows-31189.herokuapp.com/addOrder`;
         console.log(eventData)
         fetch(url, {
             method: 'POST',

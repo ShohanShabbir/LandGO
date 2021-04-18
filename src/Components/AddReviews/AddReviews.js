@@ -15,7 +15,7 @@ const AddReviews = () => {
             imageURL : imageURL
             
         }
-        const url = `http://localhost:5055/addReview`;
+        const url = `https://damp-hollows-31189.herokuapp.com/addReview`;
         console.log(eventData);
         fetch(url, {
             method: 'POST',
