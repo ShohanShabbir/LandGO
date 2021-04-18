@@ -1,0 +1,23 @@
+.text{
+    font-family: 'Damion';
+    background-color: #084035;
+    position: absolute;
+    top: 150px;
+    height: 330px;
+
+    
+}
+.img{
+    position: relative;
+}
+.text h6{
+    font-size: 40px;
+    color: white;
+    margin-top: 100px;
+    
+}
+.text h5{
+    margin-top: 25px;
+    font-size: 40px;
+    color: gray
+}

@@ -1,0 +1,16 @@
+.motto{
+    text-decoration: none;
+    cursor: pointer;
+    color: #45c55f;
+}
+
+
+
+
+.motto:hover{
+
+    color: #084035 !important;;
+    text-decoration: none;
+
+
+}

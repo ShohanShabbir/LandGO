@@ -1,0 +1,20 @@
+.admin{
+    font-family: 'Poppins';
+    
+    
+}
+.admin h1{
+    font-size: 22px;
+    text-align: left;
+    margin-top: 250px;
+    margin-left: 180px;
+
+}
+.admin form{
+    margin-right: 200px;
+}
+.admin input{
+
+    border: 1px solid black;
+    text-transform: lowercase;
+}
