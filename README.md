@@ -1,4 +1,4 @@
-# LanDGO Gardening Service Website: a MERN Stack web application providing gardening solution (15th-
+# LanDGO Gardening Service Website: a MERN Stack web application providing gardening solution (15th-18th March 2021)
 18th March 2021)
  Build a web application using MERN stack
  For payment system used one of the most popular payment gateway system(stripe)
