@@ -1,4 +1,4 @@
-![landgo](https://user-images.githubusercontent.com/71917743/116819783-66501a80-ab93-11eb-9817-f77db7661769.png)
+
 # LanDGO Gardening Service Website: a MERN Stack web application providing gardening solution (15th-18th March 2021)
 18th March 2021)
  Build a web application using MERN stack
@@ -10,3 +10,5 @@ Technology Used : HTML5, CSS3, Bootstrap, React.js , Firebase Authentication, No
 
 
 ## Live Website Link https://landgo-76fe1.web.app/
+
+![landgo](https://user-images.githubusercontent.com/71917743/116819783-66501a80-ab93-11eb-9817-f77db7661769.png)
