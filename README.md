@@ -1,10 +1,11 @@
-Hello It is a website about Gardening Services. Its Name is LanDGo We can create an environment that’s beyond your imagination This Website has some features:
- You can see what services we provide 
-You can book a service
-.Can give Reviews
- In Dashboard You can pay
- Anyone can See their desired orders
-.Can know about Company's Philosophy
+# LanDGO Gardening Service Website: a MERN Stack web application providing gardening solution (15th-
+18th March 2021)
+ Build a web application using MERN stack
+ For payment system used one of the most popular payment gateway system(stripe)
+ User can sign up using Google authentication system
+ User can order services, give reviews & see order status
+ Admin can confirm orders, add services, delete services & update services
+Technology Used : HTML5, CSS3, Bootstrap, React.js , Firebase Authentication, Node.js, Express.js, MongoDB
 
 
-Live Website Link https://landgo-76fe1.web.app/
+## Live Website Link https://landgo-76fe1.web.app/
